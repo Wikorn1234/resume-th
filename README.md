@@ -1,13 +1,15 @@
 ## 👋 สวัสดีครับ ผมวิกรม์ เหมเชื้อ (Wikorn Hemchuea)
 
-🎓 นักศึกษาวิทยาการคอมพิวเตอร์ | 💻 สนใจด้าน Web Development, UX/UI และ Machine Learning  
+🎓 **นักศึกษาวิทยาการคอมพิวเตอร์ (สำเร็จการศึกษา)** | 💻 สนใจด้าน Web Development, UX/UI, Machine Learning, QA Testing, Software Testing และ IT Support  
 📫 Email: wikorn134440@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourusername) | [Portfolio](https://yourportfolio.com)
+🔗 [LinkedIn](https://linkedin.com/in/wikorn-s) | [Portfolio](https://yourportfolio.com)
+
+---
 
 ### 🛠 ทักษะ
 - **ภาษาโปรแกรม:** Python, JavaScript, Java, C  
-- **เครื่องมือ:** Git, Postman, Figma  
-- **อื่นๆ:** RESTful API, UX/UI, OpenWeather API, ML Integration
+- **เครื่องมือ:** Git, Postman, Figma, JIRA, Selenium  
+- **อื่นๆ:** RESTful API, UX/UI, OpenWeather API, ML Integration, QA Testing, Software Testing, IT Support
 
 ---
 
