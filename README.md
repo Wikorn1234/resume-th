@@ -15,13 +15,13 @@
 
 ### 🌟 โปรเจกต์แนะนำ
 
-#### 🔥 [FIRE-CHECK](https://github.com/yourusername/fire-check-pm25)
+#### 🔥 [FIRE-CHECK](https://github.com/Wikorn1234/fire-check-pm25)
 ระบบแจ้งเตือนคุณภาพอากาศและขออนุญาตเผา  
 - Backend: Node.js + Express.js  
 - ML: Random Forest คาดการณ์ PM2.5  
 - Email Verification, Role-based Access
 
-#### 🧍 [HealthyU – HCI Health App Prototype](https://github.com/yourusername/hci-health-app)
+#### 🧍 [HealthyU – HCI Health App Prototype](https://github.com/Wikorn1234/hci-health-app)
 ออกแบบด้วย Figma เพื่อลดพฤติกรรมเนือยนิ่งในนิสิต  
 - Design Thinking Process  
 - Target: Students aged 18–25  
